@@ -78,7 +78,7 @@ content:
             url: https://github.com/fairlearn/fairlearn
         description: |
           Fairlearn is an Open Source python library started at Microsoft that can be used to train ML models under various constraints.
-          I implemented the Equality of Opportunity constraint on Fairlearn and worked on experiments on scalability of trained models in Fairlearn.  
+          I implemented the Equality of Opportunity constraint on Fairlearn and worked on experiments on scalability with respect to training models using Fairlearn.  
 
 
   - title: Experience
